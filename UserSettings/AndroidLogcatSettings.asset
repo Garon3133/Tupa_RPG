@@ -1,0 +1,131 @@
+{
+    "m_SelectedDeviceId": "R58M664LCWW",
+    "m_SelectedPackage": {
+        "deviceId": "R58M664LCWW",
+        "name": "com.DefaultCompany.com.unity.template.mobile2D",
+        "processId": 20786,
+        "exited": false
+    },
+    "m_SelectedPriority": 0,
+    "m_KnownPackagesForSerialization": [
+        {
+            "deviceId": "R58M664LCWW",
+            "name": "com.DefaultCompany.com.unity.template.mobile2D",
+            "processId": 9750,
+            "exited": false
+        },
+        {
+            "deviceId": "R58M664LCWW",
+            "name": "com.DefaultCompany.com.unity.template.mobile2D",
+            "processId": 27879,
+            "exited": false
+        },
+        {
+            "deviceId": "R58M664LCWW",
+            "name": "com.DefaultCompany.com.unity.template.mobile2D",
+            "processId": 3672,
+            "exited": false
+        },
+        {
+            "deviceId": "R58M664LCWW",
+            "name": "com.DefaultCompany.com.unity.template.mobile2D",
+            "processId": 16528,
+            "exited": false
+        },
+        {
+            "deviceId": "R58M664LCWW",
+            "name": "com.DefaultCompany.com.unity.template.mobile2D",
+            "processId": 3305,
+            "exited": false
+        },
+        {
+            "deviceId": "R58M664LCWW",
+            "name": "com.DefaultCompany.com.unity.template.mobile2D",
+            "processId": 19546,
+            "exited": false
+        },
+        {
+            "deviceId": "R58M664LCWW",
+            "name": "com.DefaultCompany.com.unity.template.mobile2D",
+            "processId": 10847,
+            "exited": false
+        },
+        {
+            "deviceId": "R58M664LCWW",
+            "name": "com.DefaultCompany.com.unity.template.mobile2D",
+            "processId": 11136,
+            "exited": false
+        },
+        {
+            "deviceId": "R58M664LCWW",
+            "name": "com.DefaultCompany.com.unity.template.mobile2D",
+            "processId": 12911,
+            "exited": false
+        },
+        {
+            "deviceId": "R58M664LCWW",
+            "name": "com.DefaultCompany.com.unity.template.mobile2D",
+            "processId": 13521,
+            "exited": false
+        },
+        {
+            "deviceId": "R58M664LCWW",
+            "name": "com.DefaultCompany.com.unity.template.mobile2D",
+            "processId": 20786,
+            "exited": false
+        }
+    ],
+    "m_Tags": {
+        "m_Entries": [
+            {
+                "m_Name": "Filter by all listed tags",
+                "m_Selected": false
+            },
+            {
+                "m_Name": "No Filter",
+                "m_Selected": true
+            },
+            {
+                "m_Name": "",
+                "m_Selected": false
+            },
+            {
+                "m_Name": "Tag Control...",
+                "m_Selected": false
+            },
+            {
+                "m_Name": "",
+                "m_Selected": false
+            },
+            {
+                "m_Name": "Unity",
+                "m_Selected": false
+            },
+            {
+                "m_Name": "CRASH",
+                "m_Selected": false
+            }
+        ]
+    },
+    "m_MemoryViewerState": {
+        "MemoryWindowHeight": 300.0,
+        "MemoryWindowWidth": 170.0,
+        "MemoryTypeEnabled": [
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true
+        ],
+        "MemoryGroup": 2,
+        "Behavior": 0
+    },
+    "m_Filter": "",
+    "m_FilterIsRegularExpression": false,
+    "m_SymbolPaths": []
+}
